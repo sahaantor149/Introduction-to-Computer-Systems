@@ -34,11 +34,9 @@ To run these programs, you need:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/Introduction-to-Computer-Systems.git
-   ```bash
    exit
 2. Navigate to the project directory:
    ```bash
    cd Introduction-to-Computer-Systems
-   ```bash
    exit
 3. Compile the C file you want to run.
